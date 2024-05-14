@@ -1,0 +1,794 @@
+2021-06-08 19:20:54 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa6e220be80; archive(resolved)='<IDEArchive: 0x7fa6dc8badc0>', distributionTask(resolved)='2', distributionDestination(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa6e220be80; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fa6e01e1610; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6f77bc770; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6f765edf0; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6de03e860; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6dcb305a0; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6e0715750; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6de1ab780; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6de1df3b0; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6de0a5c90; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fa6ecd51000; teamID='8QU3HT84B5', teamName='Mashoori Marketing Private Limited', teamType='Company', username='jaspreet.singh@mashoori.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fa6e07f64d0; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='(null)'>
+	<IDEDistributionContext: 0x7fa6dd088e20; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fa6f6bdb9d0>', team='(null)'>
+	<IDEDistributionContext: 0x7fa6dd9960f0; archive = '<IDEArchive: 0x7fa6dc8badc0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fa6e220be80>
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCopyItemStep
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app 
+2021-06-08 19:20:54 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-06-08 19:20:54 +0000  17613 bytes for ./_CodeSignature/CodeResources
+2021-06-08 19:20:54 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-06-08 19:20:54 +0000  8770 bytes for ./AppIcon60x60@2x.png
+2021-06-08 19:20:54 +0000  copying file ./blinker_bold.ttf ... 
+2021-06-08 19:20:54 +0000  74312 bytes for ./blinker_bold.ttf
+copying file ./blinker_regular.ttf ... 
+2021-06-08 19:20:54 +0000  73000 bytes for ./blinker_regular.ttf
+copying file ./GoogleService-Info.plist ... 
+2021-06-08 19:20:54 +0000  821 bytes for ./GoogleService-Info.plist
+copying file ./Figos ... 
+2021-06-08 19:20:54 +0000  2058560 bytes for ./Figos
+2021-06-08 19:20:54 +0000  copying file ./Base.lproj/Main.storyboardc/MenuVC.nib ... 
+1070 bytes for ./Base.lproj/Main.storyboardc/MenuVC.nib
+copying file ./Base.lproj/Main.storyboardc/5xr-vK-zZm-view-dnK-e4-Jqc.nib ... 
+16092 bytes for ./Base.lproj/Main.storyboardc/5xr-vK-zZm-view-dnK-e4-Jqc.nib
+copying file ./Base.lproj/Main.storyboardc/f9i-zL-r6A-view-PCj-jM-yRQ.nib ... 
+19445 bytes for ./Base.lproj/Main.storyboardc/f9i-zL-r6A-view-PCj-jM-yRQ.nib
+copying file ./Base.lproj/Main.storyboardc/iCf-wu-NW0-view-jY4-2r-O4C.nib ... 
+2021-06-08 19:20:54 +0000  32953 bytes for ./Base.lproj/Main.storyboardc/iCf-wu-NW0-view-jY4-2r-O4C.nib
+copying file ./Base.lproj/Main.storyboardc/RegisterVC.nib ... 
+2021-06-08 19:20:54 +0000  1078 bytes for ./Base.lproj/Main.storyboardc/RegisterVC.nib
+2021-06-08 19:20:54 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-06-08 19:20:54 +0000  14211 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-06-08 19:20:54 +0000  copying file ./Base.lproj/Main.storyboardc/ProfileVC.nib ... 
+2021-06-08 19:20:54 +0000  1076 bytes for ./Base.lproj/Main.storyboardc/ProfileVC.nib
+copying file ./Base.lproj/Main.storyboardc/HomeVC.nib ... 
+2021-06-08 19:20:54 +0000  1158 bytes for ./Base.lproj/Main.storyboardc/HomeVC.nib
+copying file ./Base.lproj/Main.storyboardc/qXT-vX-3pf-view-4Lx-zl-Kpd.nib ... 
+2021-06-08 19:20:54 +0000  13313 bytes for ./Base.lproj/Main.storyboardc/qXT-vX-3pf-view-4Lx-zl-Kpd.nib
+2021-06-08 19:20:54 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-06-08 19:20:54 +0000  273 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+copying file ./Base.lproj/Main.storyboardc/AboutUsVC.nib ... 
+2021-06-08 19:20:54 +0000  1076 bytes for ./Base.lproj/Main.storyboardc/AboutUsVC.nib
+2021-06-08 19:20:54 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-06-08 19:20:54 +0000  3005 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-06-08 19:20:54 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-06-08 19:20:54 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-06-08 19:20:54 +0000  copying file ./Assets.car ... 
+2021-06-08 19:20:54 +0000  5529567 bytes for ./Assets.car
+2021-06-08 19:20:54 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+11440 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./labelleaurore.ttf ... 
+53488 bytes for ./labelleaurore.ttf
+copying file ./Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/GoogleDataTransport.framework/GoogleDataTransport ... 
+2021-06-08 19:20:54 +0000  1274816 bytes for ./Frameworks/GoogleDataTransport.framework/GoogleDataTransport
+copying file ./Frameworks/GoogleDataTransport.framework/Info.plist ... 
+811 bytes for ./Frameworks/GoogleDataTransport.framework/Info.plist
+copying file ./Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher ... 
+2021-06-08 19:20:54 +0000  1219808 bytes for ./Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+copying file ./Frameworks/GTMSessionFetcher.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  807 bytes for ./Frameworks/GTMSessionFetcher.framework/Info.plist
+copying file ./Frameworks/FBLPromises.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FBLPromises.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FBLPromises.framework/FBLPromises ... 
+2021-06-08 19:20:54 +0000  601264 bytes for ./Frameworks/FBLPromises.framework/FBLPromises
+copying file ./Frameworks/FBLPromises.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  794 bytes for ./Frameworks/FBLPromises.framework/Info.plist
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:20:54 +0000  1798 bytes for ./Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/FirebaseCore.framework/FirebaseCore ... 
+2021-06-08 19:20:54 +0000  638320 bytes for ./Frameworks/FirebaseCore.framework/FirebaseCore
+copying file ./Frameworks/FirebaseCore.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  796 bytes for ./Frameworks/FirebaseCore.framework/Info.plist
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:20:54 +0000  1798 bytes for ./Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/GoogleUtilities.framework/GoogleUtilities ... 
+2021-06-08 19:20:54 +0000  1039440 bytes for ./Frameworks/GoogleUtilities.framework/GoogleUtilities
+copying file ./Frameworks/GoogleUtilities.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  803 bytes for ./Frameworks/GoogleUtilities.framework/Info.plist
+copying file ./Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FirebaseAuth.framework/FirebaseAuth ... 
+2021-06-08 19:20:54 +0000  4607712 bytes for ./Frameworks/FirebaseAuth.framework/FirebaseAuth
+copying file ./Frameworks/FirebaseAuth.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  796 bytes for ./Frameworks/FirebaseAuth.framework/Info.plist
+copying file ./Frameworks/nanopb.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/nanopb.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/nanopb.framework/nanopb ... 
+179440 bytes for ./Frameworks/nanopb.framework/nanopb
+copying file ./Frameworks/nanopb.framework/Info.plist ... 
+787 bytes for ./Frameworks/nanopb.framework/Info.plist
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/leveldb.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:20:54 +0000  1798 bytes for ./Frameworks/leveldb.framework/_CodeSignature/CodeResources
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/leveldb.framework/leveldb ... 
+2021-06-08 19:20:54 +0000  2419776 bytes for ./Frameworks/leveldb.framework/leveldb
+copying file ./Frameworks/leveldb.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  786 bytes for ./Frameworks/leveldb.framework/Info.plist
+copying file ./Frameworks/FirebaseDatabase.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FirebaseDatabase.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FirebaseDatabase.framework/FirebaseDatabase ... 
+2021-06-08 19:20:54 +0000  6161760 bytes for ./Frameworks/FirebaseDatabase.framework/FirebaseDatabase
+copying file ./Frameworks/FirebaseDatabase.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  806 bytes for ./Frameworks/FirebaseDatabase.framework/Info.plist
+copying file ./Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/FirebaseInstallations.framework/FirebaseInstallations ... 
+2021-06-08 19:20:54 +0000  905184 bytes for ./Frameworks/FirebaseInstallations.framework/FirebaseInstallations
+copying file ./Frameworks/FirebaseInstallations.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  816 bytes for ./Frameworks/FirebaseInstallations.framework/Info.plist
+copying file ./Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:20:54 +0000  1798 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics ... 
+2021-06-08 19:20:54 +0000  199456 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics
+2021-06-08 19:20:54 +0000  copying file ./Frameworks/FirebaseCoreDiagnostics.framework/Info.plist ... 
+2021-06-08 19:20:54 +0000  820 bytes for ./Frameworks/FirebaseCoreDiagnostics.framework/Info.plist
+2021-06-08 19:20:54 +0000  copying file ./embedded.mobileprovision ... 
+2021-06-08 19:20:54 +0000  12236 bytes for ./embedded.mobileprovision
+2021-06-08 19:20:54 +0000  copying file ./Info.plist ... 
+2021-06-08 19:20:54 +0000  1581 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2021-06-08 19:20:54 +0000  8 bytes for ./PkgInfo
+2021-06-08 19:20:54 +0000  copying file ./blinker_semibold.ttf ... 
+2021-06-08 19:20:54 +0000  80044 bytes for ./blinker_semibold.ttf
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de0a00a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fa6dc8c95a0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de6b0c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f1a63a40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6ccd300>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fa6de68cc00:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6dcb1e6d0; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7fa6e0428a70:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e0997f70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f1a63a40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6cb8fc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7fa6dc878970:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6f3bf0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7fa6e043c360:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0e60b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6db5f5be0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f2e132b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7fa6e07543f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6e1ca0; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7fa6e0461560:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098aca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6db5f5be0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f2e975b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7fa6de0869e0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de682bb0; bundleID='org.cocoapods.FirebaseDatabase', path='<DVTFilePath:0x7fa6e0463ee0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d0b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6db5f5be0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f2ea8ae0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseDatabase', executablePath='<DVTFilePath:0x7fa6de61b5f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de0a1890; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7fa6de308570:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0a0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de6b5d40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3521aa0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7fa6dde46710:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6f2040; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7fa6f77f7420:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6f6472110; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de6b5d40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f011ad40>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7fa6e078c9b0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6e83d0; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7fa6f773ac30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098f500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f1a63a40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6cd7120>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7fa6e0760240:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6b6b30; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fa6dbc13370:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098db50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de6b5d40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f0ffb4b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fa6e078ad90:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de6946f0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7fa6f772ed50:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d8e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f1a63a40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6ccab90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7fa6e0763fd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fa6de0b4430; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fa6e0719900:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0b4b30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f1a63a40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6cd7120>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fa6de6acc30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework/FBLPromises' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework/leveldb' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework/leveldb'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework/nanopb' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework/nanopb'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Figos' '-l' '-o' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Figos'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  41077 bytes for ./0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  213388 bytes for ./25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  25083 bytes for ./D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  5565 bytes for ./2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  237061 bytes for ./86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  50578 bytes for ./F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  76696 bytes for ./649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  55764 bytes for ./2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  48594 bytes for ./267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  90543 bytes for ./56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  2990 bytes for ./D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Running /usr/bin/ditto '-V' '/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/BCSymbolMaps/E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap'
+2021-06-08 19:20:54 +0000  >>> Copying /Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/BCSymbolMaps/E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap 
+2021-06-08 19:20:54 +0000  copying file ./E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap ... 
+2021-06-08 19:20:54 +0000  228987 bytes for ./E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap
+2021-06-08 19:20:54 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionSymbolsStep
+2021-06-08 19:20:54 +0000  Excluding symbols for FBLPromises.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for FirebaseAuth.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for FirebaseCore.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for FirebaseCoreDiagnostics.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for FirebaseDatabase.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for FirebaseInstallations.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for GTMSessionFetcher.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for GoogleDataTransport.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for GoogleUtilities.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for leveldb.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for nanopb.framework
+2021-06-08 19:20:54 +0000  Excluding symbols for Figos.app
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionAppThinningStep
+2021-06-08 19:20:54 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionArchThinningStep
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework/FBLPromises' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FBLPromises" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FirebaseAuth" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FirebaseCore" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FirebaseCoreDiagnostics" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FirebaseDatabase" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "FirebaseInstallations" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "GTMSessionFetcher" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "GoogleDataTransport" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "GoogleUtilities" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework/leveldb' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "leveldb" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework/nanopb' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "nanopb" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Figos' '-verify_arch' 'arm64e'
+2021-06-08 19:20:54 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-06-08 19:20:54 +0000  Skipping architecture thinning for item "Figos" because arch "arm64e" wasn't found
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionODRStep
+2021-06-08 19:20:54 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de0a00a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fa6dc8c95a0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de6b0c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd2ca6d0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6bed6f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fa6de68cc00:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6dcb1e6d0; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7fa6e0428a70:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e0997f70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f4ebb630>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7fa6dc878970:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6f3bf0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7fa6e043c360:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0e60b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f55a6cb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7fa6e07543f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6e1ca0; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7fa6e0461560:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098aca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f5563db0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7fa6de0869e0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de682bb0; bundleID='org.cocoapods.FirebaseDatabase', path='<DVTFilePath:0x7fa6e0463ee0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d0b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f4ed0560>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseDatabase', executablePath='<DVTFilePath:0x7fa6de61b5f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de0a1890; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7fa6de308570:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0a0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f4e2ded0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7fa6dde46710:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6f2040; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7fa6f77f7420:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6f6472110; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f4eccb20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7fa6e078c9b0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6e83d0; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7fa6f773ac30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098f500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f5532d40>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7fa6e0760240:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6b6b30; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fa6dbc13370:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098db50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f55262b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fa6e078ad90:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de6946f0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7fa6f772ed50:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d8e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f4e0f900>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7fa6e0763fd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fa6de0b4430; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fa6e0719900:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0b4b30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f555eeb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fa6de6acc30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>
+2021-06-08 19:20:54 +0000  Running /usr/bin/xattr '-crs' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app'
+2021-06-08 19:20:55 +0000  /usr/bin/xattr exited with 0
+2021-06-08 19:20:55 +0000  Processing step: IDEDistributionCodesignStep
+2021-06-08 19:20:55 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0a00a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fa6dc8c95a0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de6b0c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dc861350; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6ecbcceb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fa6de68cc00:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:20:55 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0a00a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fa6dc8c95a0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de6b0c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e01f5530; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6ecb959a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fa6de68cc00:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:20:55 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de0a00a0; bundleID='org.cocoapods.FBLPromises', path='<DVTFilePath:0x7fa6dc8c95a0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de6b0c70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e0206b20; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6ecb9afa0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FBLPromises', executablePath='<DVTFilePath:0x7fa6de68cc00:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FBLPromises.framework/FBLPromises'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~jDzbgF
+2021-06-08 19:20:55 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~jDzbgF' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FBLPromises]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6dcb1e6d0; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7fa6e0428a70:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e0997f70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd2ca6d0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6bef390>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7fa6dc878970:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6dcb1e6d0; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7fa6e0428a70:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e0997f70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dbe9c900; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6eca297e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7fa6dc878970:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6dcb1e6d0; bundleID='org.cocoapods.FirebaseAuth', path='<DVTFilePath:0x7fa6e0428a70:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e0997f70; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e01bb6b0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f79269b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseAuth', executablePath='<DVTFilePath:0x7fa6dc878970:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~JVvMwF
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~JVvMwF' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FirebaseAuth]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6f3bf0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7fa6e043c360:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0e60b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de0bc3e0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f11cfd60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7fa6e07543f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6f3bf0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7fa6e043c360:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0e60b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de56ebe0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6de56ec90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7fa6e07543f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6f3bf0; bundleID='org.cocoapods.FirebaseCore', path='<DVTFilePath:0x7fa6e043c360:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0e60b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e09aef40; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f65a4760>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCore', executablePath='<DVTFilePath:0x7fa6e07543f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~WGvUJR
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~WGvUJR' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FirebaseCore]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6e1ca0; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7fa6e0461560:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098aca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de0bc3e0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f1186200>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7fa6de0869e0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6e1ca0; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7fa6e0461560:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098aca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3520fd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7fa6de0869e0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6e1ca0; bundleID='org.cocoapods.FirebaseCoreDiagnostics', path='<DVTFilePath:0x7fa6e0461560:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098aca0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcce5100; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f5567890>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseCoreDiagnostics', executablePath='<DVTFilePath:0x7fa6de0869e0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~tMgJFr
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~tMgJFr' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FirebaseCoreDiagnostics]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de682bb0; bundleID='org.cocoapods.FirebaseDatabase', path='<DVTFilePath:0x7fa6e0463ee0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d0b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd2ca6d0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6bc1eb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseDatabase', executablePath='<DVTFilePath:0x7fa6de61b5f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de682bb0; bundleID='org.cocoapods.FirebaseDatabase', path='<DVTFilePath:0x7fa6e0463ee0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d0b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f5561870>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseDatabase', executablePath='<DVTFilePath:0x7fa6de61b5f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de682bb0; bundleID='org.cocoapods.FirebaseDatabase', path='<DVTFilePath:0x7fa6e0463ee0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d0b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6ecc55c00; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f55a7200>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseDatabase', executablePath='<DVTFilePath:0x7fa6de61b5f0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~szB0D6
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~szB0D6' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FirebaseDatabase]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0a1890; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7fa6de308570:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0a0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dc884680; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6ecbb0a70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7fa6dde46710:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0a1890; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7fa6de308570:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0a0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3d74560>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7fa6dde46710:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de0a1890; bundleID='org.cocoapods.FirebaseInstallations', path='<DVTFilePath:0x7fa6de308570:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0a0290; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e07f54c0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f555eeb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.FirebaseInstallations', executablePath='<DVTFilePath:0x7fa6dde46710:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~GoZb9U
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~GoZb9U' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.FirebaseInstallations]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6f2040; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7fa6f77f7420:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6f6472110; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de0bc3e0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6ddd8b050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7fa6e078c9b0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6f2040; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7fa6f77f7420:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6f6472110; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6ddf48070; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f11413f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7fa6e078c9b0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6f2040; bundleID='org.cocoapods.GTMSessionFetcher', path='<DVTFilePath:0x7fa6f77f7420:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6f6472110; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de0d1fb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f11d6690>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GTMSessionFetcher', executablePath='<DVTFilePath:0x7fa6e078c9b0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~e0tD4p
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~e0tD4p' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework'
+2021-06-08 19:21:00 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.GTMSessionFetcher]
+2021-06-08 19:21:00 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6e83d0; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7fa6f773ac30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098f500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f55375d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7fa6e0760240:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:00 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6e83d0; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7fa6f773ac30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098f500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e01bb6b0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3e08160>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7fa6e0760240:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6e83d0; bundleID='org.cocoapods.GoogleDataTransport', path='<DVTFilePath:0x7fa6f773ac30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098f500; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd2ca6d0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f6bf0b10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleDataTransport', executablePath='<DVTFilePath:0x7fa6e0760240:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~phbDYv
+2021-06-08 19:21:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~phbDYv' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework'
+2021-06-08 19:21:01 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.GoogleDataTransport]
+2021-06-08 19:21:01 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6b6b30; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fa6dbc13370:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098db50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f1a65cd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fa6e078ad90:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6b6b30; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fa6dbc13370:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098db50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de590910; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6de5909c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fa6e078ad90:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:01 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6b6b30; bundleID='org.cocoapods.GoogleUtilities', path='<DVTFilePath:0x7fa6dbc13370:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098db50; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e09d5480; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f1167730>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.GoogleUtilities', executablePath='<DVTFilePath:0x7fa6e078ad90:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~S0b2qr
+2021-06-08 19:21:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~S0b2qr' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework'
+2021-06-08 19:21:01 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.GoogleUtilities]
+2021-06-08 19:21:01 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6946f0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7fa6f772ed50:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d8e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f5567890>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7fa6e0763fd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de6946f0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7fa6f772ed50:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d8e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e09f25a0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6de534500>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7fa6e0763fd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:01 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de6946f0; bundleID='org.cocoapods.leveldb', path='<DVTFilePath:0x7fa6f772ed50:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e098d8e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcd7dfb0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f556b690>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.leveldb', executablePath='<DVTFilePath:0x7fa6e0763fd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/leveldb.framework/leveldb'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~EErBrq
+2021-06-08 19:21:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~EErBrq' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework'
+2021-06-08 19:21:01 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.leveldb]
+2021-06-08 19:21:01 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0b4430; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fa6e0719900:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0b4b30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6f0fbd650; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f557db90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fa6de6acc30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'>: {
+}
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6de0b4430; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fa6e0719900:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0b4b30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dcce5100; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f558bba0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fa6de6acc30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> are: {
+}
+2021-06-08 19:21:01 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6de0b4430; bundleID='org.cocoapods.nanopb', path='<DVTFilePath:0x7fa6e0719900:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6de0b4b30; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6dd1c4390; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3fed100>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='(null)', teamID='8QU3HT84B5', identifier='org.cocoapods.nanopb', executablePath='<DVTFilePath:0x7fa6de6acc30:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Frameworks/nanopb.framework/nanopb'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~5o7aMb
+2021-06-08 19:21:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~5o7aMb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework'
+2021-06-08 19:21:01 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.nanopb]
+2021-06-08 19:21:01 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6e09a07b0; bundleID='in.figos.Figos', path='<DVTFilePath:0x7fa6dd125bd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e099aac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e09f25a0; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f3f45480>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='{
+    "application-identifier" = "8QU3HT84B5.in.figos.Figos";
+    "com.apple.developer.team-identifier" = 8QU3HT84B5;
+    "get-task-allow" = 1;
+}', teamID='8QU3HT84B5', identifier='in.figos.Figos', executablePath='<DVTFilePath:0x7fa6f63b5470:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Figos'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "8QU3HT84B5.in.figos.Figos";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 8QU3HT84B5;
+    "get-task-allow" = 0;
+}
+2021-06-08 19:21:01 +0000  Entitlements for <IDEDistributionItem: 0x7fa6e09a07b0; bundleID='in.figos.Figos', path='<DVTFilePath:0x7fa6dd125bd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e099aac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6de0ea460; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f1108ee0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='{
+    "application-identifier" = "8QU3HT84B5.in.figos.Figos";
+    "com.apple.developer.team-identifier" = 8QU3HT84B5;
+    "get-task-allow" = 1;
+}', teamID='8QU3HT84B5', identifier='in.figos.Figos', executablePath='<DVTFilePath:0x7fa6f63b5470:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Figos'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "8QU3HT84B5.in.figos.Figos";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 8QU3HT84B5;
+    "get-task-allow" = 0;
+}
+2021-06-08 19:21:01 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa6e09a07b0; bundleID='in.figos.Figos', path='<DVTFilePath:0x7fa6dd125bd0:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa6e099aac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa6e09c3000; name='Apple Development: Jaspreet singh (K3953DNWM7)', hash='633A1900685FAB206C16495A0937DEFCDE616EFF', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fa6f11c1eb0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-06-08 19:07:24 +0000''>', entitlements='{
+    "application-identifier" = "8QU3HT84B5.in.figos.Figos";
+    "com.apple.developer.team-identifier" = 8QU3HT84B5;
+    "get-task-allow" = 1;
+}', teamID='8QU3HT84B5', identifier='in.figos.Figos', executablePath='<DVTFilePath:0x7fa6f63b5470:'/Users/manu/Library/Developer/Xcode/Archives/2021-06-09/Figos 09-06-21, 12.49 AM.xcarchive/Products/Applications/Figos.app/Figos'>', hardenedRuntime='0'>'> to: /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~wt1Jln
+2021-06-08 19:21:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3E37E901D926042FD83364944C5B74723332F82A' '--entitlements' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/entitlements~~~wt1Jln' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app'
+2021-06-08 19:21:01 +0000  /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app: signed app bundle with Mach-O thin (arm64) [in.figos.Figos]
+2021-06-08 19:21:01 +0000  /usr/bin/codesign exited with 0
+2021-06-08 19:21:01 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-06-08 19:21:01 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-06-08 19:21:01 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root' '/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Packages/Figos.ipa'
+2021-06-08 19:21:01 +0000  >>> Copying /var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root 
+2021-06-08 19:21:01 +0000  copying file ./BCSymbolMaps/86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  237061 bytes for ./BCSymbolMaps/86AD9BD8-4AF2-3375-B1B5-984B9F69774B.bcsymbolmap
+copying file ./BCSymbolMaps/56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  90543 bytes for ./BCSymbolMaps/56C8C940-7897-3FCA-A9C1-623821075F16.bcsymbolmap
+copying file ./BCSymbolMaps/E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  228987 bytes for ./BCSymbolMaps/E1FF015E-4D1B-3D5C-AE63-FF49CEE40D9A.bcsymbolmap
+copying file ./BCSymbolMaps/F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  50578 bytes for ./BCSymbolMaps/F16A9B17-AA27-3DFE-AF73-91E30E32E0C6.bcsymbolmap
+copying file ./BCSymbolMaps/D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  2990 bytes for ./BCSymbolMaps/D1795B30-AA89-3A74-A574-8052FB2A960B.bcsymbolmap
+2021-06-08 19:21:01 +0000  copying file ./BCSymbolMaps/2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  5565 bytes for ./BCSymbolMaps/2093EA36-F700-3811-B1F3-7D489C36FE12.bcsymbolmap
+copying file ./BCSymbolMaps/649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  76696 bytes for ./BCSymbolMaps/649E43DE-422E-3C93-9C9B-5BC176FFA28B.bcsymbolmap
+copying file ./BCSymbolMaps/D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  25083 bytes for ./BCSymbolMaps/D970EB37-833B-30E0-8459-97B5DF95D2B2.bcsymbolmap
+2021-06-08 19:21:01 +0000  copying file ./BCSymbolMaps/267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  48594 bytes for ./BCSymbolMaps/267D7172-2F8D-3A9C-A913-1FD4E3ADC40A.bcsymbolmap
+2021-06-08 19:21:01 +0000  copying file ./BCSymbolMaps/25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  213388 bytes for ./BCSymbolMaps/25F8F57A-849C-3A7E-8F9F-8E0CB7589B05.bcsymbolmap
+copying file ./BCSymbolMaps/0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  41077 bytes for ./BCSymbolMaps/0B6B5621-C16C-356A-82DC-6146826673B1.bcsymbolmap
+copying file ./BCSymbolMaps/2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap ... 
+2021-06-08 19:21:01 +0000  55764 bytes for ./BCSymbolMaps/2E206336-69EB-3D01-B8AA-502BAD6F4E3F.bcsymbolmap
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  17613 bytes for ./Payload/Figos.app/_CodeSignature/CodeResources
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/AppIcon60x60@2x.png ... 
+2021-06-08 19:21:01 +0000  8770 bytes for ./Payload/Figos.app/AppIcon60x60@2x.png
+copying file ./Payload/Figos.app/blinker_bold.ttf ... 
+2021-06-08 19:21:01 +0000  74312 bytes for ./Payload/Figos.app/blinker_bold.ttf
+copying file ./Payload/Figos.app/blinker_regular.ttf ... 
+2021-06-08 19:21:01 +0000  73000 bytes for ./Payload/Figos.app/blinker_regular.ttf
+copying file ./Payload/Figos.app/GoogleService-Info.plist ... 
+2021-06-08 19:21:01 +0000  821 bytes for ./Payload/Figos.app/GoogleService-Info.plist
+copying file ./Payload/Figos.app/Figos ... 
+2021-06-08 19:21:01 +0000  1672096 bytes for ./Payload/Figos.app/Figos
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/MenuVC.nib ... 
+1070 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/MenuVC.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/5xr-vK-zZm-view-dnK-e4-Jqc.nib ... 
+16092 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/5xr-vK-zZm-view-dnK-e4-Jqc.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/f9i-zL-r6A-view-PCj-jM-yRQ.nib ... 
+19445 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/f9i-zL-r6A-view-PCj-jM-yRQ.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/iCf-wu-NW0-view-jY4-2r-O4C.nib ... 
+2021-06-08 19:21:01 +0000  32953 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/iCf-wu-NW0-view-jY4-2r-O4C.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/RegisterVC.nib ... 
+2021-06-08 19:21:01 +0000  1078 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/RegisterVC.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-06-08 19:21:01 +0000  14211 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/ProfileVC.nib ... 
+2021-06-08 19:21:01 +0000  1076 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/ProfileVC.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/HomeVC.nib ... 
+2021-06-08 19:21:01 +0000  1158 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/HomeVC.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/qXT-vX-3pf-view-4Lx-zl-Kpd.nib ... 
+2021-06-08 19:21:01 +0000  13313 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/qXT-vX-3pf-view-4Lx-zl-Kpd.nib
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-06-08 19:21:01 +0000  273 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/Figos.app/Base.lproj/Main.storyboardc/AboutUsVC.nib ... 
+2021-06-08 19:21:01 +0000  1076 bytes for ./Payload/Figos.app/Base.lproj/Main.storyboardc/AboutUsVC.nib
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-06-08 19:21:01 +0000  3005 bytes for ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-06-08 19:21:01 +0000  896 bytes for ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-06-08 19:21:01 +0000  258 bytes for ./Payload/Figos.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Figos.app/Assets.car ... 
+2021-06-08 19:21:01 +0000  5529567 bytes for ./Payload/Figos.app/Assets.car
+copying file ./Payload/Figos.app/AppIcon76x76@2x~ipad.png ... 
+2021-06-08 19:21:01 +0000  11440 bytes for ./Payload/Figos.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/Figos.app/labelleaurore.ttf ... 
+2021-06-08 19:21:01 +0000  53488 bytes for ./Payload/Figos.app/labelleaurore.ttf
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport ... 
+2021-06-08 19:21:01 +0000  971744 bytes for ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/GoogleDataTransport
+copying file ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  811 bytes for ./Payload/Figos.app/Frameworks/GoogleDataTransport.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher ... 
+2021-06-08 19:21:01 +0000  863232 bytes for ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/Info.plist ... 
+807 bytes for ./Payload/Figos.app/Frameworks/GTMSessionFetcher.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/FBLPromises.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/FBLPromises.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/FBLPromises.framework/FBLPromises ... 
+2021-06-08 19:21:01 +0000  440016 bytes for ./Payload/Figos.app/Frameworks/FBLPromises.framework/FBLPromises
+copying file ./Payload/Figos.app/Frameworks/FBLPromises.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  794 bytes for ./Payload/Figos.app/Frameworks/FBLPromises.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore ... 
+2021-06-08 19:21:01 +0000  483792 bytes for ./Payload/Figos.app/Frameworks/FirebaseCore.framework/FirebaseCore
+copying file ./Payload/Figos.app/Frameworks/FirebaseCore.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  796 bytes for ./Payload/Figos.app/Frameworks/FirebaseCore.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities ... 
+2021-06-08 19:21:01 +0000  770224 bytes for ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/GoogleUtilities
+copying file ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  803 bytes for ./Payload/Figos.app/Frameworks/GoogleUtilities.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth ... 
+2021-06-08 19:21:01 +0000  3519840 bytes for ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/FirebaseAuth
+copying file ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  796 bytes for ./Payload/Figos.app/Frameworks/FirebaseAuth.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/nanopb.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/nanopb.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/nanopb.framework/nanopb ... 
+2021-06-08 19:21:01 +0000  121984 bytes for ./Payload/Figos.app/Frameworks/nanopb.framework/nanopb
+copying file ./Payload/Figos.app/Frameworks/nanopb.framework/Info.plist ... 
+2021-06-08 19:21:01 +0000  787 bytes for ./Payload/Figos.app/Frameworks/nanopb.framework/Info.plist
+2021-06-08 19:21:01 +0000  copying file ./Payload/Figos.app/Frameworks/leveldb.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:01 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/leveldb.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/leveldb.framework/leveldb ... 
+2021-06-08 19:21:02 +0000  1909360 bytes for ./Payload/Figos.app/Frameworks/leveldb.framework/leveldb
+copying file ./Payload/Figos.app/Frameworks/leveldb.framework/Info.plist ... 
+2021-06-08 19:21:02 +0000  786 bytes for ./Payload/Figos.app/Frameworks/leveldb.framework/Info.plist
+2021-06-08 19:21:02 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/_CodeSignature/CodeResources
+2021-06-08 19:21:02 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase ... 
+2021-06-08 19:21:02 +0000  4689488 bytes for ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/FirebaseDatabase
+2021-06-08 19:21:02 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/Info.plist ... 
+806 bytes for ./Payload/Figos.app/Frameworks/FirebaseDatabase.framework/Info.plist
+2021-06-08 19:21:02 +0000  copying file ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources ... 
+2021-06-08 19:21:02 +0000  1798 bytes for ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations ... 
+2021-06-08 19:21:02 +0000  661008 bytes for ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/FirebaseInstallations
+copying file ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/Info.plist ... 
+2021-06-08 19:21:02 +0000  816 bytes for ./Payload/Figos.app/Frameworks/FirebaseInstallations.framework/Info.plist
+copying file ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/_CodeSignature/CodeResources
+copying file ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics ... 
+2021-06-08 19:21:02 +0000  137392 bytes for ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics
+copying file ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/Info.plist ... 
+2021-06-08 19:21:02 +0000  820 bytes for ./Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework/Info.plist
+2021-06-08 19:21:02 +0000  copying file ./Payload/Figos.app/embedded.mobileprovision ... 
+2021-06-08 19:21:02 +0000  14255 bytes for ./Payload/Figos.app/embedded.mobileprovision
+copying file ./Payload/Figos.app/Info.plist ... 
+2021-06-08 19:21:02 +0000  1581 bytes for ./Payload/Figos.app/Info.plist
+copying file ./Payload/Figos.app/PkgInfo ... 
+2021-06-08 19:21:02 +0000  8 bytes for ./Payload/Figos.app/PkgInfo
+copying file ./Payload/Figos.app/blinker_semibold.ttf ... 
+2021-06-08 19:21:02 +0000  80044 bytes for ./Payload/Figos.app/blinker_semibold.ttf
+2021-06-08 19:21:02 +0000  /usr/bin/ditto exited with 0
+2021-06-08 19:21:02 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-06-08 19:21:02 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-06-08 19:21:02 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6de6715e0:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/nanopb.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6f632b3b0:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/leveldb.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6dcf31970:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FBLPromises.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6e04110c0:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleUtilities.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6f57bd560:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCore.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6ddfaf170:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseAuth.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6e019e0a0:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GTMSessionFetcher.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6e04a8590:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseDatabase.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6e2213cd0:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseCoreDiagnostics.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6dcba8e20:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/GoogleDataTransport.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6e09ad970:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app/Frameworks/FirebaseInstallations.framework'>
+2021-06-08 19:21:02 +0000  IDEDistributionItem init <DVTFilePath:0x7fa6f4c0f410:'/var/folders/rq/tlm0gmy92p5dy035fc05qvjc0000gn/T/XcodeDistPipeline.~~~ZdbqOE/Root/Payload/Figos.app'>
+2021-06-08 19:21:02 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-06-08 19:21:02 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

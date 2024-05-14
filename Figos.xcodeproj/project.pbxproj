@@ -3,18 +3,41 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3214139D263A9FFA00A63E34 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3214139C263A9FFA00A63E34 /* CustomButton.swift */; };
+		3242538E2637EEF6003FBDFC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3242538D2637EEF6003FBDFC /* GoogleService-Info.plist */; };
+		3242538F2637EEF6003FBDFC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3242538D2637EEF6003FBDFC /* GoogleService-Info.plist */; };
+		324253902637EEF6003FBDFC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3242538D2637EEF6003FBDFC /* GoogleService-Info.plist */; };
+		324253C72637FE64003FBDFC /* blinker_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BD2637FE62003FBDFC /* blinker_bold.ttf */; };
+		324253C82637FE64003FBDFC /* blinker_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BD2637FE62003FBDFC /* blinker_bold.ttf */; };
+		324253C92637FE64003FBDFC /* blinker_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BD2637FE62003FBDFC /* blinker_bold.ttf */; };
+		324253CD2637FE64003FBDFC /* blinker_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BF2637FE62003FBDFC /* blinker_regular.ttf */; };
+		324253CE2637FE64003FBDFC /* blinker_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BF2637FE62003FBDFC /* blinker_regular.ttf */; };
+		324253CF2637FE64003FBDFC /* blinker_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253BF2637FE62003FBDFC /* blinker_regular.ttf */; };
+		324253D32637FE64003FBDFC /* blinker_semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253C12637FE63003FBDFC /* blinker_semibold.ttf */; };
+		324253D42637FE64003FBDFC /* blinker_semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253C12637FE63003FBDFC /* blinker_semibold.ttf */; };
+		324253D52637FE64003FBDFC /* blinker_semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 324253C12637FE63003FBDFC /* blinker_semibold.ttf */; };
+		32696B16263D514C00419200 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32696B15263D514C00419200 /* AboutUsViewController.swift */; };
+		32696B22263D5C1500419200 /* labelleaurore.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32696B21263D5C1500419200 /* labelleaurore.ttf */; };
+		3297BC15266E118500EB95A2 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3297BC14266E118500EB95A2 /* MenuViewController.swift */; };
+		3297BC17266E290E00EB95A2 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3297BC16266E290E00EB95A2 /* MenuCell.swift */; };
+		32A68BA6266F818B00F11E30 /* CartTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A68BA5266F818B00F11E30 /* CartTableViewCell.swift */; };
+		32A68BA8266F837800F11E30 /* TotalTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A68BA7266F837800F11E30 /* TotalTableViewCell.swift */; };
+		32C7D1F8263E7CEB003BAA80 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C7D1F7263E7CEB003BAA80 /* ProfileViewController.swift */; };
+		32D22DEC26380429002DAF3A /* Pods_Figos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54BE528F7C3995A5F133561D /* Pods_Figos.framework */; };
 		32F8B3F8262ADA2D000ADFDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B3F7262ADA2D000ADFDB /* AppDelegate.swift */; };
-		32F8B3FA262ADA2D000ADFDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B3F9262ADA2D000ADFDB /* SceneDelegate.swift */; };
-		32F8B3FC262ADA2D000ADFDB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B3FB262ADA2D000ADFDB /* ViewController.swift */; };
+		32F8B3FC262ADA2D000ADFDB /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B3FB262ADA2D000ADFDB /* RegisterViewController.swift */; };
 		32F8B3FF262ADA2D000ADFDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F8B3FD262ADA2D000ADFDB /* Main.storyboard */; };
 		32F8B401262ADA2E000ADFDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F8B400262ADA2E000ADFDB /* Assets.xcassets */; };
 		32F8B404262ADA2E000ADFDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F8B402262ADA2E000ADFDB /* LaunchScreen.storyboard */; };
 		32F8B40F262ADA2E000ADFDB /* FigosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B40E262ADA2E000ADFDB /* FigosTests.swift */; };
 		32F8B41A262ADA2E000ADFDB /* FigosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B419262ADA2E000ADFDB /* FigosUITests.swift */; };
+		32F8B439262AEC8C000ADFDB /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F8B438262AEC8C000ADFDB /* HomeViewController.swift */; };
+		5323D67C9CE79BA30DCA9530 /* Pods_FigosTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56D897C6262A435F24AA5C64 /* Pods_FigosTests.framework */; };
+		99234363A2C1943BC3EAEFD5 /* Pods_Figos_FigosUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3E12267DFB7EFB487027272 /* Pods_Figos_FigosUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,10 +58,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3214139C263A9FFA00A63E34 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		3242538D2637EEF6003FBDFC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		324253B92637F2F2003FBDFC /* Figos.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Figos.entitlements; sourceTree = "<group>"; };
+		324253BD2637FE62003FBDFC /* blinker_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = blinker_bold.ttf; sourceTree = "<group>"; };
+		324253BF2637FE62003FBDFC /* blinker_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = blinker_regular.ttf; sourceTree = "<group>"; };
+		324253C12637FE63003FBDFC /* blinker_semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = blinker_semibold.ttf; sourceTree = "<group>"; };
+		32696B15263D514C00419200 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
+		32696B21263D5C1500419200 /* labelleaurore.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = labelleaurore.ttf; sourceTree = "<group>"; };
+		3297BC14266E118500EB95A2 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		3297BC16266E290E00EB95A2 /* MenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
+		32A68BA5266F818B00F11E30 /* CartTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartTableViewCell.swift; sourceTree = "<group>"; };
+		32A68BA7266F837800F11E30 /* TotalTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalTableViewCell.swift; sourceTree = "<group>"; };
+		32C7D1F7263E7CEB003BAA80 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		32F8B3F4262ADA2D000ADFDB /* Figos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Figos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F8B3F7262ADA2D000ADFDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		32F8B3F9262ADA2D000ADFDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		32F8B3FB262ADA2D000ADFDB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		32F8B3FB262ADA2D000ADFDB /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		32F8B3FE262ADA2D000ADFDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		32F8B400262ADA2E000ADFDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32F8B403262ADA2E000ADFDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +84,16 @@
 		32F8B415262ADA2E000ADFDB /* FigosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FigosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F8B419262ADA2E000ADFDB /* FigosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigosUITests.swift; sourceTree = "<group>"; };
 		32F8B41B262ADA2E000ADFDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32F8B438262AEC8C000ADFDB /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		54BE528F7C3995A5F133561D /* Pods_Figos.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Figos.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		56D897C6262A435F24AA5C64 /* Pods_FigosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FigosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		64F2DB83777238390B0E62DB /* Pods-FigosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FigosTests.release.xcconfig"; path = "Target Support Files/Pods-FigosTests/Pods-FigosTests.release.xcconfig"; sourceTree = "<group>"; };
+		76491CED7DA71C1CE8BAE570 /* Pods-Figos.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Figos.release.xcconfig"; path = "Target Support Files/Pods-Figos/Pods-Figos.release.xcconfig"; sourceTree = "<group>"; };
+		86AFC73957A51805C27C7669 /* Pods-Figos.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Figos.debug.xcconfig"; path = "Target Support Files/Pods-Figos/Pods-Figos.debug.xcconfig"; sourceTree = "<group>"; };
+		902D418CEBBCEEAB85F24DF9 /* Pods-Figos-FigosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Figos-FigosUITests.release.xcconfig"; path = "Target Support Files/Pods-Figos-FigosUITests/Pods-Figos-FigosUITests.release.xcconfig"; sourceTree = "<group>"; };
+		B5260E153316A24370B7071D /* Pods-Figos-FigosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Figos-FigosUITests.debug.xcconfig"; path = "Target Support Files/Pods-Figos-FigosUITests/Pods-Figos-FigosUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		BB1E00662307C1820C27F4D6 /* Pods-FigosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FigosTests.debug.xcconfig"; path = "Target Support Files/Pods-FigosTests/Pods-FigosTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E3E12267DFB7EFB487027272 /* Pods_Figos_FigosUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Figos_FigosUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +101,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32D22DEC26380429002DAF3A /* Pods_Figos.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5323D67C9CE79BA30DCA9530 /* Pods_FigosTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,19 +117,47 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99234363A2C1943BC3EAEFD5 /* Pods_Figos_FigosUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2CFA3E49525388BF87B214F3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				86AFC73957A51805C27C7669 /* Pods-Figos.debug.xcconfig */,
+				76491CED7DA71C1CE8BAE570 /* Pods-Figos.release.xcconfig */,
+				B5260E153316A24370B7071D /* Pods-Figos-FigosUITests.debug.xcconfig */,
+				902D418CEBBCEEAB85F24DF9 /* Pods-Figos-FigosUITests.release.xcconfig */,
+				BB1E00662307C1820C27F4D6 /* Pods-FigosTests.debug.xcconfig */,
+				64F2DB83777238390B0E62DB /* Pods-FigosTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		324253EB2637FE6B003FBDFC /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				32696B21263D5C1500419200 /* labelleaurore.ttf */,
+				324253BD2637FE62003FBDFC /* blinker_bold.ttf */,
+				324253BF2637FE62003FBDFC /* blinker_regular.ttf */,
+				324253C12637FE63003FBDFC /* blinker_semibold.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
 		32F8B3EB262ADA2D000ADFDB = {
 			isa = PBXGroup;
 			children = (
+				3214139C263A9FFA00A63E34 /* CustomButton.swift */,
 				32F8B3F6262ADA2D000ADFDB /* Figos */,
 				32F8B40D262ADA2E000ADFDB /* FigosTests */,
 				32F8B418262ADA2E000ADFDB /* FigosUITests */,
 				32F8B3F5262ADA2D000ADFDB /* Products */,
+				2CFA3E49525388BF87B214F3 /* Pods */,
+				8FE35606360F8F32A4504867 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +174,22 @@
 		32F8B3F6262ADA2D000ADFDB /* Figos */ = {
 			isa = PBXGroup;
 			children = (
+				324253EB2637FE6B003FBDFC /* fonts */,
+				324253B92637F2F2003FBDFC /* Figos.entitlements */,
+				3242538D2637EEF6003FBDFC /* GoogleService-Info.plist */,
 				32F8B3F7262ADA2D000ADFDB /* AppDelegate.swift */,
-				32F8B3F9262ADA2D000ADFDB /* SceneDelegate.swift */,
-				32F8B3FB262ADA2D000ADFDB /* ViewController.swift */,
+				32F8B3FB262ADA2D000ADFDB /* RegisterViewController.swift */,
+				3297BC14266E118500EB95A2 /* MenuViewController.swift */,
 				32F8B3FD262ADA2D000ADFDB /* Main.storyboard */,
 				32F8B400262ADA2E000ADFDB /* Assets.xcassets */,
 				32F8B402262ADA2E000ADFDB /* LaunchScreen.storyboard */,
 				32F8B405262ADA2E000ADFDB /* Info.plist */,
+				32F8B438262AEC8C000ADFDB /* HomeViewController.swift */,
+				32696B15263D514C00419200 /* AboutUsViewController.swift */,
+				32C7D1F7263E7CEB003BAA80 /* ProfileViewController.swift */,
+				3297BC16266E290E00EB95A2 /* MenuCell.swift */,
+				32A68BA5266F818B00F11E30 /* CartTableViewCell.swift */,
+				32A68BA7266F837800F11E30 /* TotalTableViewCell.swift */,
 			);
 			path = Figos;
 			sourceTree = "<group>";
@@ -128,6 +212,16 @@
 			path = FigosUITests;
 			sourceTree = "<group>";
 		};
+		8FE35606360F8F32A4504867 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				54BE528F7C3995A5F133561D /* Pods_Figos.framework */,
+				E3E12267DFB7EFB487027272 /* Pods_Figos_FigosUITests.framework */,
+				56D897C6262A435F24AA5C64 /* Pods_FigosTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +229,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 32F8B41E262ADA2E000ADFDB /* Build configuration list for PBXNativeTarget "Figos" */;
 			buildPhases = (
+				FFF005F623CC6B40B95B106C /* [CP] Check Pods Manifest.lock */,
 				32F8B3F0262ADA2D000ADFDB /* Sources */,
 				32F8B3F1262ADA2D000ADFDB /* Frameworks */,
 				32F8B3F2262ADA2D000ADFDB /* Resources */,
+				DE5B452964E96936C372FB3B /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +248,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 32F8B421262ADA2E000ADFDB /* Build configuration list for PBXNativeTarget "FigosTests" */;
 			buildPhases = (
+				D343C1B8F1E40D17D9DE750C /* [CP] Check Pods Manifest.lock */,
 				32F8B406262ADA2E000ADFDB /* Sources */,
 				32F8B407262ADA2E000ADFDB /* Frameworks */,
 				32F8B408262ADA2E000ADFDB /* Resources */,
@@ -170,9 +267,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 32F8B424262ADA2E000ADFDB /* Build configuration list for PBXNativeTarget "FigosUITests" */;
 			buildPhases = (
+				DB746B46A828632226CCE0DB /* [CP] Check Pods Manifest.lock */,
 				32F8B411262ADA2E000ADFDB /* Sources */,
 				32F8B412262ADA2E000ADFDB /* Frameworks */,
 				32F8B413262ADA2E000ADFDB /* Resources */,
+				4413DB250D2BD80E348F153E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -232,6 +331,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				32F8B404262ADA2E000ADFDB /* LaunchScreen.storyboard in Resources */,
+				324253D32637FE64003FBDFC /* blinker_semibold.ttf in Resources */,
+				324253C72637FE64003FBDFC /* blinker_bold.ttf in Resources */,
+				3242538E2637EEF6003FBDFC /* GoogleService-Info.plist in Resources */,
+				32696B22263D5C1500419200 /* labelleaurore.ttf in Resources */,
+				324253CD2637FE64003FBDFC /* blinker_regular.ttf in Resources */,
 				32F8B401262ADA2E000ADFDB /* Assets.xcassets in Resources */,
 				32F8B3FF262ADA2D000ADFDB /* Main.storyboard in Resources */,
 			);
@@ -241,6 +345,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3242538F2637EEF6003FBDFC /* GoogleService-Info.plist in Resources */,
+				324253D42637FE64003FBDFC /* blinker_semibold.ttf in Resources */,
+				324253C82637FE64003FBDFC /* blinker_bold.ttf in Resources */,
+				324253CE2637FE64003FBDFC /* blinker_regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,19 +356,133 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				324253902637EEF6003FBDFC /* GoogleService-Info.plist in Resources */,
+				324253D52637FE64003FBDFC /* blinker_semibold.ttf in Resources */,
+				324253C92637FE64003FBDFC /* blinker_bold.ttf in Resources */,
+				324253CF2637FE64003FBDFC /* blinker_regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4413DB250D2BD80E348F153E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Figos-FigosUITests/Pods-Figos-FigosUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Figos-FigosUITests/Pods-Figos-FigosUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Figos-FigosUITests/Pods-Figos-FigosUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D343C1B8F1E40D17D9DE750C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FigosTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DB746B46A828632226CCE0DB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Figos-FigosUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DE5B452964E96936C372FB3B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Figos/Pods-Figos-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Figos/Pods-Figos-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Figos/Pods-Figos-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FFF005F623CC6B40B95B106C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Figos-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		32F8B3F0262ADA2D000ADFDB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				32F8B3FC262ADA2D000ADFDB /* ViewController.swift in Sources */,
+				32C7D1F8263E7CEB003BAA80 /* ProfileViewController.swift in Sources */,
+				32696B16263D514C00419200 /* AboutUsViewController.swift in Sources */,
+				3214139D263A9FFA00A63E34 /* CustomButton.swift in Sources */,
+				32A68BA6266F818B00F11E30 /* CartTableViewCell.swift in Sources */,
+				3297BC15266E118500EB95A2 /* MenuViewController.swift in Sources */,
+				32F8B439262AEC8C000ADFDB /* HomeViewController.swift in Sources */,
+				32A68BA8266F837800F11E30 /* TotalTableViewCell.swift in Sources */,
+				32F8B3FC262ADA2D000ADFDB /* RegisterViewController.swift in Sources */,
+				3297BC17266E290E00EB95A2 /* MenuCell.swift in Sources */,
 				32F8B3F8262ADA2D000ADFDB /* AppDelegate.swift in Sources */,
-				32F8B3FA262ADA2D000ADFDB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,7 +588,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -421,7 +643,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -433,15 +655,21 @@
 		};
 		32F8B41F262ADA2E000ADFDB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86AFC73957A51805C27C7669 /* Pods-Figos.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Figos/Figos.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QU3HT84B5;
 				INFOPLIST_FILE = Figos/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = in.figos.Figos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -451,15 +679,21 @@
 		};
 		32F8B420262ADA2E000ADFDB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 76491CED7DA71C1CE8BAE570 /* Pods-Figos.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Figos/Figos.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QU3HT84B5;
 				INFOPLIST_FILE = Figos/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = in.figos.Figos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -469,6 +703,7 @@
 		};
 		32F8B422262ADA2E000ADFDB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BB1E00662307C1820C27F4D6 /* Pods-FigosTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,6 +725,7 @@
 		};
 		32F8B423262ADA2E000ADFDB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64F2DB83777238390B0E62DB /* Pods-FigosTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -511,6 +747,7 @@
 		};
 		32F8B425262ADA2E000ADFDB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5260E153316A24370B7071D /* Pods-Figos-FigosUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -530,6 +767,7 @@
 		};
 		32F8B426262ADA2E000ADFDB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 902D418CEBBCEEAB85F24DF9 /* Pods-Figos-FigosUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
